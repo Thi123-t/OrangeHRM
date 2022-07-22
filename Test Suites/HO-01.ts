@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>HO-01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a9969dec-891c-49c7-8e9c-c5decca847ce</testSuiteGuid>
+   <testCaseLink>
+      <guid>7097ab76-144b-431a-9ef1-29ab01893423</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HO-01/Verify all links</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5c9a60b1-1e18-4678-a658-f685664f6745</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1bd8d182-4335-4d74-8595-4e460a051f0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0fd2f8ba-b6f8-4f95-b672-22f320fcb275</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0187c16c-6a3a-4b76-8f00-5d79e06d708e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7030b422-eeb2-43d3-a55b-8bbaa20f4ac3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HO-01/Verify successful login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>003f48bd-93d3-4203-b6e9-fb84bcdc0ae5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HO-01/Verify login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fa34d133-766e-4809-a9a7-9b71876e6f98</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fa34d133-766e-4809-a9a7-9b71876e6f98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>8babad30-10da-4984-95da-c2ec055000b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa34d133-766e-4809-a9a7-9b71876e6f98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Message</value>
+         <variableId>aac3026c-9d17-48bd-b71e-de54c02ae27d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa34d133-766e-4809-a9a7-9b71876e6f98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>6bfbf7bb-4b0b-4d27-bf5b-e728db5ce8ac</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

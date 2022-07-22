@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SingleMarriedOther</name>
+   <tag></tag>
+   <elementGuidId>949de0f8-289a-4c74-be9f-9dfaa28ed5c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='personal_cmbMarital']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#personal_cmbMarital</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2d6cb01c-bc4a-48d7-a5df-3299732907da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[cmbMarital]</value>
+      <webElementGuid>666b122a-ee78-4905-b3be-94c6d5790a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editable</value>
+      <webElementGuid>81a44d5f-bba0-4138-aeb4-3b7af6d2aee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_cmbMarital</value>
+      <webElementGuid>e90d72f0-e0bd-40b3-9edf-2031ba6b8f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Select --
+Single
+Married
+Other
+</value>
+      <webElementGuid>5bddc241-e39b-4057-b41e-e9be2a10da34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal_cmbMarital&quot;)</value>
+      <webElementGuid>23280c76-74a9-499f-bdc2-d8b324eac801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6f4e67a7-1083-416c-a570-9fff5e901cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[cmbMarital]</value>
+      <webElementGuid>dcf82300-adb3-420a-8e07-fab79ff2711d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editable valid</value>
+      <webElementGuid>024734c7-838c-4ba7-9866-19e84d50533e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_cmbMarital</value>
+      <webElementGuid>1a64d95a-93d1-454d-8fca-5648f7e5511b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Select --
+Single
+Married
+Other
+</value>
+      <webElementGuid>f124ea5a-dfc8-4361-a3a9-beb63c4938f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal_cmbMarital&quot;)</value>
+      <webElementGuid>55a55529-404e-4591-a09c-0aefec54492d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='personal_cmbMarital']</value>
+      <webElementGuid>e9196d5f-813d-4eae-a259-0dfc4fd7d20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmEmpPersonalDetails']/fieldset/ol[3]/li[2]/select</value>
+      <webElementGuid>0f8643d0-d305-48b2-abcb-2158b421b5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/following::select[1]</value>
+      <webElementGuid>d99ae1ae-0c6c-4329-abbf-3ea677123191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/following::select[1]</value>
+      <webElementGuid>71e0edc9-fcf8-4cd5-b2b9-57618e175787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/preceding::select[1]</value>
+      <webElementGuid>ac5f6eb9-5cf6-4919-9c35-214cfb58a08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/preceding::select[2]</value>
+      <webElementGuid>5efaa48c-bc2f-41db-8a11-69e6ec9b2452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4a47cac2-8afa-447a-b08e-b179818b5054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'personal[cmbMarital]' and @id = 'personal_cmbMarital' and (text() = '
+-- Select --
+Single
+Married
+Other
+' or . = '
+-- Select --
+Single
+Married
+Other
+')]</value>
+      <webElementGuid>3bbba7c5-ffbd-419c-babb-38da78e13976</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

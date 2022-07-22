@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HR 102- Message for the file is over the max size</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b1afbc4-b81a-402e-b23c-089a3fa9b4fa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fa25f63-c516-4887-ac31-bfbceec5ebd2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\Test-HO2\\\\Newcomers.ppsx'</defaultValue>
+      <description></description>
+      <id>4fa25f63-c516-4887-ac31-bfbceec5ebd2</id>
+      <masked>false</masked>
+      <name>file2</name>
+   </variable>
+</TestCaseEntity>

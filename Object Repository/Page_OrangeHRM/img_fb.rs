@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_fb</name>
+   <tag></tag>
+   <elementGuidId>ef727647-2322-441e-8c10-d423f6dca2cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;OrangeHRM on Facebook&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='social-icons']/a[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a713a3fd-c38b-48a7-a947-5227d51e6656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/facebook.png</value>
+      <webElementGuid>aa20de68-32b1-4093-a3e0-cfd4c6b1ef5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>OrangeHRM on Facebook</value>
+      <webElementGuid>a0967362-1000-4276-83c0-8d062103b970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;social-icons&quot;)/a[2]/img[1]</value>
+      <webElementGuid>4d48929e-4afb-4bb1-9381-b1bc45e75a2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='social-icons']/a[2]/img</value>
+      <webElementGuid>4768a882-5fe6-46dd-944f-a50615f68094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='OrangeHRM on Facebook']</value>
+      <webElementGuid>32099d49-aa0b-4f61-afea-82014bb55671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>20d2685f-7226-4687-b670-80f4d2a0c7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/facebook.png' and @alt = 'OrangeHRM on Facebook']</value>
+      <webElementGuid>9f75c6cb-6f3a-4335-99bc-823336948132</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_yt</name>
+   <tag></tag>
+   <elementGuidId>11d49e24-253f-422b-b2e3-03ebf282acc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;OrangeHRM on youtube&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='social-icons']/a[4]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1c8d861b-d557-4b3a-9fef-635afc91e285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/youtube.png</value>
+      <webElementGuid>196d3d52-9120-44d1-8ff0-9730fc6de036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>OrangeHRM on youtube</value>
+      <webElementGuid>fe5e356a-9a03-4651-be1b-3523766eff04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;social-icons&quot;)/a[4]/img[1]</value>
+      <webElementGuid>a5bc9a28-9082-43df-b17b-96d53e587cee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='social-icons']/a[4]/img</value>
+      <webElementGuid>91e49324-3c6e-4a39-906d-d718ca5b9f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='OrangeHRM on youtube']</value>
+      <webElementGuid>833f5b22-dae2-49d5-828c-e1a766e0b84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/img</value>
+      <webElementGuid>83415ace-855d-472f-b1b6-2bba8b3119b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/youtube.png' and @alt = 'OrangeHRM on youtube']</value>
+      <webElementGuid>6966108f-e1b1-4198-b2ac-99b4528e4991</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

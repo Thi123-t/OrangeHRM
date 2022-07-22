@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "E6C620434779B29BB38E702A88AE8E6D",
+  "keywordClasses": [
+    {
+      "name": "keywords.New",
+      "keywordMethods": [
+        {
+          "name": "isFileDownloaded",
+          "parameters": [
+            {
+              "name": "downloadPath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n * Verify file Download\r\n */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

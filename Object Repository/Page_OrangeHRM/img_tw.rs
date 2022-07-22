@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_tw</name>
+   <tag></tag>
+   <elementGuidId>284b4d18-483c-4f96-be14-89ea60fe14a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;OrangeHRM on twitter&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='social-icons']/a[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0db68be7-a716-472a-8fe0-916abc177f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/twiter.png</value>
+      <webElementGuid>e9fb7237-cca0-417e-a6a7-a5bce81f9f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>OrangeHRM on twitter</value>
+      <webElementGuid>54ffcd75-dd08-4ff6-b9ee-47dca44ec87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;social-icons&quot;)/a[3]/img[1]</value>
+      <webElementGuid>bf0a54f4-f578-41ac-8191-6420dcaefd5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='social-icons']/a[3]/img</value>
+      <webElementGuid>bc177578-512c-41bc-b2a6-0b602c476e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='OrangeHRM on twitter']</value>
+      <webElementGuid>c320d7d3-5a67-483a-b2e2-e4ca6c703b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>720174df-6532-4b44-9e16-ee5989c6d633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/twiter.png' and @alt = 'OrangeHRM on twitter']</value>
+      <webElementGuid>7547007e-ed6f-46ad-b6e7-fe18a2dd3d0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

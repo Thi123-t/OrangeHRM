@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef5ca388-629b-475e-99b5-e6d9c3551e00</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>476e3fa9-4112-4f30-bbf5-4f513403a569</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Login</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>476e3fa9-4112-4f30-bbf5-4f513403a569</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>8babad30-10da-4984-95da-c2ec055000b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>476e3fa9-4112-4f30-bbf5-4f513403a569</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Message</value>
+      <variableId>aac3026c-9d17-48bd-b71e-de54c02ae27d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>476e3fa9-4112-4f30-bbf5-4f513403a569</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>6bfbf7bb-4b0b-4d27-bf5b-e728db5ce8ac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8babad30-10da-4984-95da-c2ec055000b8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aac3026c-9d17-48bd-b71e-de54c02ae27d</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6bfbf7bb-4b0b-4d27-bf5b-e728db5ce8ac</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

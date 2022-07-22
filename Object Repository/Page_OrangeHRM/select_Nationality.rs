@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Nationality</name>
+   <tag></tag>
+   <elementGuidId>6dd93af6-feef-4d56-945f-98d508eb027f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='personal_cmbNation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#personal_cmbNation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2222906a-7f75-4b2a-93b1-c10c205e8769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[cmbNation]</value>
+      <webElementGuid>d08ac2bc-2fe7-45b7-a2e2-1aa31b4e1fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editable valid</value>
+      <webElementGuid>dd19233b-cde9-437f-8d02-3e820fe86276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_cmbNation</value>
+      <webElementGuid>1802e512-8cdf-455b-9b69-aaaec3c1ebb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+-- Select --
+Afghan
+Albanian
+Algerian
+American
+Andorran
+Angolan
+Antiguans
+Argentinean
+Armenian
+Australian
+Austrian
+Azerbaijani
+Bahamian
+Bahraini
+Bangladeshi
+Barbadian
+Barbudans
+Batswana
+Belarusian
+Belgian
+Belizean
+Beninese
+Bhutanese
+Bolivian
+Bosnian
+Brazilian
+British
+Bruneian
+Bulgarian
+Burkinabe
+Burmese
+Burundian
+Cambodian
+Cameroonian
+Canadian
+Cape Verdean
+Central African
+Chadian
+Chilean
+Chinese
+Colombian
+Comoran
+Congolese
+Costa Rican
+Croatian
+Cuban
+Cypriot
+Czech
+Danish
+Djibouti
+Dominican
+Dutch
+East Timorese
+Ecuadorean
+Egyptian
+Emirian
+Equatorial Guinean
+Eritrean
+Estonian
+Ethiopian
+Fijian
+Filipino
+Finnish
+French
+Gabonese
+Gambian
+Georgian
+German
+Ghanaian
+Greek
+Grenadian
+Guatemalan
+Guinea-Bissauan
+Guinean
+Guyanese
+Haitian
+Herzegovinian
+Honduran
+Hungarian
+I-Kiribati
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Israeli
+Italian
+Ivorian
+Jamaican
+Japanese
+Jordanian
+Kazakhstani
+Kenyan
+Kittian and Nevisian
+Kuwaiti
+Kyrgyz
+Laotian
+Latvian
+Lebanese
+Liberian
+Libyan
+Liechtensteiner
+Lithuanian
+Luxembourger
+Macedonian
+Malagasy
+Malawian
+Malaysian
+Maldivan
+Malian
+Maltese
+Marshallese
+Mauritanian
+Mauritian
+Mexican
+Micronesian
+Moldovan
+Monacan
+Mongolian
+Moroccan
+Mosotho
+Motswana
+Mozambican
+Namibian
+Nauruan
+Nepalese
+New Zealander
+Nicaraguan
+Nigerian
+Nigerien
+North Korean
+Northern Irish
+Norwegian
+Omani
+Pakistani
+Palauan
+Panamanian
+Papua New Guinean
+Paraguayan
+Peruvian
+Polish
+Portuguese
+Qatari
+Romanian
+Russian
+Rwandan
+Saint Lucian
+Salvadoran
+Samoan
+San Marinese
+Sao Tomean
+Saudi
+Scottish
+Senegalese
+Serbian
+Seychellois
+Sierra Leonean
+Singaporean
+Slovakian
+Slovenian
+Solomon Islander
+Somali
+South African
+South Korean
+Spanish
+Sri Lankan
+Sudanese
+Surinamer
+Swazi
+Swedish
+Swiss
+Syrian
+Taiwanese
+Tajik
+Tanzanian
+Thai
+Togolese
+Tongan
+Trinidadian or Tobagonian
+Tunisian
+Turkish
+Tuvaluan
+Ugandan
+Ukrainian
+Uruguayan
+Uzbekistani
+Venezuelan
+Vietnamese
+Welsh
+Yemenite
+Zambian
+Zimbabwean
+</value>
+      <webElementGuid>2e1b3e09-9fad-477e-8d5b-b7ba9e76e27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal_cmbNation&quot;)</value>
+      <webElementGuid>ae7377b3-1936-4c9a-ac80-efbe706b1dc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='personal_cmbNation']</value>
+      <webElementGuid>035e0367-7d9a-4243-aaf3-eb59a85d8397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmEmpPersonalDetails']/fieldset/ol[3]/li[3]/select</value>
+      <webElementGuid>d7b10bdf-7dac-4d10-9b3c-0f6ed96dd59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::select[1]</value>
+      <webElementGuid>18b116d5-a65a-4f42-9c1b-8652ce85929c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/following::select[2]</value>
+      <webElementGuid>9774c704-68a3-4a3d-bf46-d1cdfbab7130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/preceding::select[1]</value>
+      <webElementGuid>332f0327-cfec-4ba5-9fae-cd1d775b53c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/select</value>
+      <webElementGuid>93a8a057-697b-4af0-b7ba-506f46a818fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'personal[cmbNation]' and @id = 'personal_cmbNation' and (text() = '
+-- Select --
+Afghan
+Albanian
+Algerian
+American
+Andorran
+Angolan
+Antiguans
+Argentinean
+Armenian
+Australian
+Austrian
+Azerbaijani
+Bahamian
+Bahraini
+Bangladeshi
+Barbadian
+Barbudans
+Batswana
+Belarusian
+Belgian
+Belizean
+Beninese
+Bhutanese
+Bolivian
+Bosnian
+Brazilian
+British
+Bruneian
+Bulgarian
+Burkinabe
+Burmese
+Burundian
+Cambodian
+Cameroonian
+Canadian
+Cape Verdean
+Central African
+Chadian
+Chilean
+Chinese
+Colombian
+Comoran
+Congolese
+Costa Rican
+Croatian
+Cuban
+Cypriot
+Czech
+Danish
+Djibouti
+Dominican
+Dutch
+East Timorese
+Ecuadorean
+Egyptian
+Emirian
+Equatorial Guinean
+Eritrean
+Estonian
+Ethiopian
+Fijian
+Filipino
+Finnish
+French
+Gabonese
+Gambian
+Georgian
+German
+Ghanaian
+Greek
+Grenadian
+Guatemalan
+Guinea-Bissauan
+Guinean
+Guyanese
+Haitian
+Herzegovinian
+Honduran
+Hungarian
+I-Kiribati
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Israeli
+Italian
+Ivorian
+Jamaican
+Japanese
+Jordanian
+Kazakhstani
+Kenyan
+Kittian and Nevisian
+Kuwaiti
+Kyrgyz
+Laotian
+Latvian
+Lebanese
+Liberian
+Libyan
+Liechtensteiner
+Lithuanian
+Luxembourger
+Macedonian
+Malagasy
+Malawian
+Malaysian
+Maldivan
+Malian
+Maltese
+Marshallese
+Mauritanian
+Mauritian
+Mexican
+Micronesian
+Moldovan
+Monacan
+Mongolian
+Moroccan
+Mosotho
+Motswana
+Mozambican
+Namibian
+Nauruan
+Nepalese
+New Zealander
+Nicaraguan
+Nigerian
+Nigerien
+North Korean
+Northern Irish
+Norwegian
+Omani
+Pakistani
+Palauan
+Panamanian
+Papua New Guinean
+Paraguayan
+Peruvian
+Polish
+Portuguese
+Qatari
+Romanian
+Russian
+Rwandan
+Saint Lucian
+Salvadoran
+Samoan
+San Marinese
+Sao Tomean
+Saudi
+Scottish
+Senegalese
+Serbian
+Seychellois
+Sierra Leonean
+Singaporean
+Slovakian
+Slovenian
+Solomon Islander
+Somali
+South African
+South Korean
+Spanish
+Sri Lankan
+Sudanese
+Surinamer
+Swazi
+Swedish
+Swiss
+Syrian
+Taiwanese
+Tajik
+Tanzanian
+Thai
+Togolese
+Tongan
+Trinidadian or Tobagonian
+Tunisian
+Turkish
+Tuvaluan
+Ugandan
+Ukrainian
+Uruguayan
+Uzbekistani
+Venezuelan
+Vietnamese
+Welsh
+Yemenite
+Zambian
+Zimbabwean
+' or . = '
+-- Select --
+Afghan
+Albanian
+Algerian
+American
+Andorran
+Angolan
+Antiguans
+Argentinean
+Armenian
+Australian
+Austrian
+Azerbaijani
+Bahamian
+Bahraini
+Bangladeshi
+Barbadian
+Barbudans
+Batswana
+Belarusian
+Belgian
+Belizean
+Beninese
+Bhutanese
+Bolivian
+Bosnian
+Brazilian
+British
+Bruneian
+Bulgarian
+Burkinabe
+Burmese
+Burundian
+Cambodian
+Cameroonian
+Canadian
+Cape Verdean
+Central African
+Chadian
+Chilean
+Chinese
+Colombian
+Comoran
+Congolese
+Costa Rican
+Croatian
+Cuban
+Cypriot
+Czech
+Danish
+Djibouti
+Dominican
+Dutch
+East Timorese
+Ecuadorean
+Egyptian
+Emirian
+Equatorial Guinean
+Eritrean
+Estonian
+Ethiopian
+Fijian
+Filipino
+Finnish
+French
+Gabonese
+Gambian
+Georgian
+German
+Ghanaian
+Greek
+Grenadian
+Guatemalan
+Guinea-Bissauan
+Guinean
+Guyanese
+Haitian
+Herzegovinian
+Honduran
+Hungarian
+I-Kiribati
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Israeli
+Italian
+Ivorian
+Jamaican
+Japanese
+Jordanian
+Kazakhstani
+Kenyan
+Kittian and Nevisian
+Kuwaiti
+Kyrgyz
+Laotian
+Latvian
+Lebanese
+Liberian
+Libyan
+Liechtensteiner
+Lithuanian
+Luxembourger
+Macedonian
+Malagasy
+Malawian
+Malaysian
+Maldivan
+Malian
+Maltese
+Marshallese
+Mauritanian
+Mauritian
+Mexican
+Micronesian
+Moldovan
+Monacan
+Mongolian
+Moroccan
+Mosotho
+Motswana
+Mozambican
+Namibian
+Nauruan
+Nepalese
+New Zealander
+Nicaraguan
+Nigerian
+Nigerien
+North Korean
+Northern Irish
+Norwegian
+Omani
+Pakistani
+Palauan
+Panamanian
+Papua New Guinean
+Paraguayan
+Peruvian
+Polish
+Portuguese
+Qatari
+Romanian
+Russian
+Rwandan
+Saint Lucian
+Salvadoran
+Samoan
+San Marinese
+Sao Tomean
+Saudi
+Scottish
+Senegalese
+Serbian
+Seychellois
+Sierra Leonean
+Singaporean
+Slovakian
+Slovenian
+Solomon Islander
+Somali
+South African
+South Korean
+Spanish
+Sri Lankan
+Sudanese
+Surinamer
+Swazi
+Swedish
+Swiss
+Syrian
+Taiwanese
+Tajik
+Tanzanian
+Thai
+Togolese
+Tongan
+Trinidadian or Tobagonian
+Tunisian
+Turkish
+Tuvaluan
+Ugandan
+Ukrainian
+Uruguayan
+Uzbekistani
+Venezuelan
+Vietnamese
+Welsh
+Yemenite
+Zambian
+Zimbabwean
+')]</value>
+      <webElementGuid>9feccffb-efac-406a-b593-5ccf10197c21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

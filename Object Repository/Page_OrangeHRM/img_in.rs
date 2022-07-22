@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_in</name>
+   <tag></tag>
+   <elementGuidId>663154d1-9653-4b81-a42b-8f17bc9b56e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;LinkedIn OrangeHRM group&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='social-icons']/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fac5d8cf-684e-4c88-adb5-d3f5798551e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/linkedin.png</value>
+      <webElementGuid>e00189bf-a4bb-4d06-840b-3208effe532f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>LinkedIn OrangeHRM group</value>
+      <webElementGuid>968d50b0-9320-416a-9c80-85d56ff66cbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;social-icons&quot;)/a[1]/img[1]</value>
+      <webElementGuid>5006374d-652f-45a6-90a7-3338ca2a2407</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='social-icons']/a/img</value>
+      <webElementGuid>ca29da11-44de-4270-a1ae-64c8d08b35bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='LinkedIn OrangeHRM group']</value>
+      <webElementGuid>aa66b27f-d0ed-4593-b12a-e553d13d8cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>ee690665-65a7-4ed3-a22f-71d93a81ed5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/symfony/web/webres_62a99229343a71.79046770/themes/default/images/login/linkedin.png' and @alt = 'LinkedIn OrangeHRM group']</value>
+      <webElementGuid>8131cb3f-c2ae-425a-a51e-e9eab82219ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
