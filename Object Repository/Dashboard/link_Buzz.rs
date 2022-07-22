@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Buzz</name>
+   <tag></tag>
+   <elementGuidId>7e01a049-fb57-4794-bb33-92b252c74492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'menu_buzz_viewBuzz']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c93ad59-5a42-41e3-b977-750f5c5e30fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_buzz_viewBuzz</value>
+      <webElementGuid>1ffdbb61-b562-4862-bf8f-44d686b606b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>firstLevelMenu</value>
+      <webElementGuid>15e09171-81e6-4b34-9a93-3d4805c99479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='menu_buzz_viewBuzz']</value>
+      <webElementGuid>8279cdd3-b8ab-4bb9-ab5f-b680fdc4e329</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

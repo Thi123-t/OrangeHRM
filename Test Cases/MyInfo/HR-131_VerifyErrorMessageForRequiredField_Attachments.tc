@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HR-131_VerifyErrorMessageForRequiredField_Attachments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1eb6901a-4b44-4cc5-8a9a-a17cbcbbc6d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7461531a-3aca-4948-b041-420f9b603368</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>580ec997-64cc-44da-9c07-5eaf9512db82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HarryKane'</defaultValue>
+      <description></description>
+      <id>7461531a-3aca-4948-b041-420f9b603368</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'harrykane'</defaultValue>
+      <description></description>
+      <id>580ec997-64cc-44da-9c07-5eaf9512db82</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

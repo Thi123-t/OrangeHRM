@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HR-144_VerifyUploadFileMoreThan1MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f6917a1-d73e-4f3a-9323-4f1967017311</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16ddd40d-99b3-44a8-a13b-ea2804f91084</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7da5ba8e-13ae-499d-b85f-b34be414df44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HarryKane'</defaultValue>
+      <description></description>
+      <id>16ddd40d-99b3-44a8-a13b-ea2804f91084</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'harrykane'</defaultValue>
+      <description></description>
+      <id>7da5ba8e-13ae-499d-b85f-b34be414df44</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

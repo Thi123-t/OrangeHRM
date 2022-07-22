@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HR-115_VerifyItemsMyInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a5a7270-5c69-444e-bae4-d45d7b67ccb9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac5ae1ad-e6d8-45f5-85bf-0e42f4e78b61</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>632aaafc-9d65-47b4-8f62-e928d6c7b3ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HarryKane'</defaultValue>
+      <description></description>
+      <id>ac5ae1ad-e6d8-45f5-85bf-0e42f4e78b61</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'harrykane'</defaultValue>
+      <description></description>
+      <id>632aaafc-9d65-47b4-8f62-e928d6c7b3ab</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

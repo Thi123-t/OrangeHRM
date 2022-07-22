@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_EmployeeId</name>
+   <tag></tag>
+   <elementGuidId>c76ad3a4-d2c7-4b3a-92e8-304b3cac620d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'personal_txtEmployeeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>abf0e4da-979a-4ca0-aba3-b6de320b13d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_txtEmployeeId</value>
+      <webElementGuid>790de5b2-e886-488f-aa11-94ed155903c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[txtEmployeeId]</value>
+      <webElementGuid>b084d4d4-4bbf-443a-9ec5-bfbc7f047176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editable</value>
+      <webElementGuid>9688818b-1ab5-4795-a7c7-81071a47be3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='personal_txtEmployeeId']</value>
+      <webElementGuid>020046b6-fe0d-4070-aacd-a3e4ff632c42</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

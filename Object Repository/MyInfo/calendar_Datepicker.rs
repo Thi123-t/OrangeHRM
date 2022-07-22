@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>calendar_Datepicker</name>
+   <tag></tag>
+   <elementGuidId>7e4ca015-a7b6-46b3-b2f0-21d8ac07e02a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'ui-datepicker-div']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f500f5d5-956b-4681-aeee-2afb78c1cb40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-datepicker-div</value>
+      <webElementGuid>c0b2a66a-9001-48a2-add7-ea0e4699d508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all</value>
+      <webElementGuid>45d367de-5917-411e-aac1-77272317a4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='ui-datepicker-div']</value>
+      <webElementGuid>418bd8d3-80ae-42cf-bcaa-349c6c979b2a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

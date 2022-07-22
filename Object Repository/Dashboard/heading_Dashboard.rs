@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>heading_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>7f5c251f-d3d4-4fe6-b500-e2aa02f59933</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h1[contains(text(),'Dashboard')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>55940164-7dd8-4833-b8a1-5ee3640d4f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h1[contains(text(),'Dashboard')]</value>
+      <webElementGuid>6b1bd700-b26a-42ee-983b-83fc317d6273</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

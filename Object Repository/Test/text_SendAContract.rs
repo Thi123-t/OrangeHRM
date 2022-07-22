@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_SendAContract</name>
+   <tag></tag>
+   <elementGuidId>24cc9b49-83c7-43b5-8ca3-e09656b13b53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(contains(text(), 'Send a contract') or contains(., 'Send a contract'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28764686-3e10-4bdc-bd1a-5237045670b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send a contract</value>
+      <webElementGuid>560e9487-0481-48c2-810f-e674febda53c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>automation-id</name>
+      <type>Main</type>
+      <value>breadCrumb-1</value>
+      <webElementGuid>841130a4-d178-489d-8579-9531b881840e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

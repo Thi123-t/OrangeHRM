@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F91DA430728E66B26AEE99366A9B7781",
+  "keywordClasses": [
+    {
+      "name": "dashboard.DashboardKeywords",
+      "keywordMethods": [
+        {
+          "name": "VerifyElementsInDashboard",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

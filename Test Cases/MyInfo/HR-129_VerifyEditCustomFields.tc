@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HR-129_VerifyEditCustomFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f89b7f70-119f-434e-9e3f-8cc7375fc54d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df88d9a0-40a4-419d-b280-b4b176e0e432</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18b8b7d5-00c6-46ca-a55f-4ac46bf0cf84</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HarryKane'</defaultValue>
+      <description></description>
+      <id>df88d9a0-40a4-419d-b280-b4b176e0e432</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'harrykane'</defaultValue>
+      <description></description>
+      <id>18b8b7d5-00c6-46ca-a55f-4ac46bf0cf84</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

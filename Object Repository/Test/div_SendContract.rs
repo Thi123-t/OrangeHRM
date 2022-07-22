@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SendContract</name>
+   <tag></tag>
+   <elementGuidId>d58d489f-9c19-4910-af0e-773acd67bb5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@automation-id = 'sendContract']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eecb3f7b-1a65-45d7-b0b9-6165650c6e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>automation-id</name>
+      <type>Main</type>
+      <value>sendContract</value>
+      <webElementGuid>6efb89d7-499d-4b61-8a31-5804ed8a5066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onb-dashboard-action</value>
+      <webElementGuid>8e99bda8-1715-468b-8421-14336e16cefd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

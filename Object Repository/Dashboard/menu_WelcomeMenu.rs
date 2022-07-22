@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_WelcomeMenu</name>
+   <tag></tag>
+   <elementGuidId>0614562a-dd0e-4ac8-b367-64ad3ce4a780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'welcome-menu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b45ee984-1889-4443-afca-70c65e6a4beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>welcome-menu</value>
+      <webElementGuid>1d73b1f0-c0d4-4b24-985e-caf0df305ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panelContainer</value>
+      <webElementGuid>a8aa93b1-b6a3-4a11-8b8d-857e9626f90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='welcome-menu']</value>
+      <webElementGuid>d1e3651b-e76c-4b6a-9954-cc2f8919fc4d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

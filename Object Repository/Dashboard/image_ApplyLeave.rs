@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image_ApplyLeave</name>
+   <tag></tag>
+   <elementGuidId>cd3472f8-3c53-487e-996f-7fa464297001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[1]//div[1]//a[1]//img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>24f3e248-527c-4827-b21e-1d56bc6e0002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[1]//div[1]//a[1]//img[1]</value>
+      <webElementGuid>bac9f5e7-83ef-458c-9f25-ce379f260eb1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

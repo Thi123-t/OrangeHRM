@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nationality</name>
+   <tag></tag>
+   <elementGuidId>b46ea86b-78ac-4d77-a736-a6f2e609462e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(contains(text(), 'Nationality') or contains(., 'Nationality'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>81096043-d95e-4975-9cba-d5d3f3b00710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nationality</value>
+      <webElementGuid>a4aa7d56-00ac-49f2-8541-863c65d1eb48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[contains(text(),'Nationality')]</value>
+      <webElementGuid>4ec48ef5-aca7-4bd0-85a1-087479860b2e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

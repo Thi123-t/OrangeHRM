@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_FileName</name>
+   <tag></tag>
+   <elementGuidId>5644dcd7-55df-470e-b5aa-4b2471c127cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(contains(text(), 'Test596KB.png') or contains(., 'Test596KB.png'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5da6ec7-8bd0-450c-8f8a-2a472b64a61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test596KB.png</value>
+      <webElementGuid>2c7be216-7dd3-40ad-bf12-783e3ae2e30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test596KB.png')]</value>
+      <webElementGuid>4b561fe3-0144-47b1-9d6b-f6c559e91eba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

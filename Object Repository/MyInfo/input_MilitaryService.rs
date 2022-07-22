@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_MilitaryService</name>
+   <tag></tag>
+   <elementGuidId>9b5e0c59-5735-4b70-a617-936ddf4929c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'personal_txtMilitarySer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b4c5f673-d66e-4f4c-9c07-2b8e92fe376a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_txtMilitarySer</value>
+      <webElementGuid>2f3e0fdb-8eef-4586-aaee-a2b57cd50d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[txtMilitarySer]</value>
+      <webElementGuid>7e3746a8-d63a-4475-b208-33cb392e3597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editable</value>
+      <webElementGuid>7039c672-17d1-44fc-b895-99bbee6d0bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='personal_txtMilitarySer']</value>
+      <webElementGuid>a37835d3-ebe2-4594-90f9-3e622cb1f30c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

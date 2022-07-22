@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HR-156_VerifyDeleteAllAttachments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8aaee31-9aa6-403d-a6c5-99f4816f9b56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7da6a6b4-051f-4dcb-acc9-14fda4c5e7c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9276c41c-f6aa-40c6-ab4c-fa23310a4c4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HarryKane'</defaultValue>
+      <description></description>
+      <id>7da6a6b4-051f-4dcb-acc9-14fda4c5e7c4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'harrykane'</defaultValue>
+      <description></description>
+      <id>9276c41c-f6aa-40c6-ab4c-fa23310a4c4c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

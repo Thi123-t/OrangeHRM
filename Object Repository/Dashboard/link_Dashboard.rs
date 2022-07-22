@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>36a1c33f-5e92-4a88-bf32-ee03680ed63b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'menu_dashboard_index']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>711316c3-84e3-4b15-8e1d-0ef7eddee6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_dashboard_index</value>
+      <webElementGuid>b7c57d69-6187-4cf5-825d-be646ed713a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>firstLevelMenu</value>
+      <webElementGuid>d51eb96f-5e16-4a4e-b551-e00b49924a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='menu_dashboard_index']</value>
+      <webElementGuid>91a4a020-806c-4366-8666-6399f068fe9c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

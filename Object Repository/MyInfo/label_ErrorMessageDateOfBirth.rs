@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ErrorMessageDateOfBirth</name>
+   <tag></tag>
+   <elementGuidId>d5167f34-eb5a-4bc8-858a-9f6edce53689</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@for = 'personal_DOB']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52b732ac-c1d2-404e-bcc9-8bab077c177d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-error</value>
+      <webElementGuid>7027d3b0-647c-4ef5-995c-bd7eab597ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>personal_DOB</value>
+      <webElementGuid>b79299ac-29be-4d0b-801a-022037669bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ol[3]//li[4]//span[1]</value>
+      <webElementGuid>07bd6c68-8eec-46f6-9118-6001b5a823ca</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

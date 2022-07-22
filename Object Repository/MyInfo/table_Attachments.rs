@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_Attachments</name>
+   <tag></tag>
+   <elementGuidId>d4aab48f-5cf3-47f0-bec2-2eb9a9f4dd81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[@id = 'tblAttachments']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>9bc92d88-926f-4697-965f-4584e80ccb37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tblAttachments</value>
+      <webElementGuid>3eb96efb-7e85-4ef0-a645-5b0258381bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table tablesorter</value>
+      <webElementGuid>1e5cff08-709d-4e96-a5d1-2102073f1fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id='tblAttachments']</value>
+      <webElementGuid>fd97f37e-7334-4200-b91c-3a0fd4fb969b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

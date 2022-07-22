@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Leave</name>
+   <tag></tag>
+   <elementGuidId>fff47761-5362-43ba-ae95-4b2a0ddf1b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'menu_leave_viewLeaveModule']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd39e108-3289-44f4-bfea-85a14b374d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_leave_viewLeaveModule</value>
+      <webElementGuid>4c18e9ef-f7e6-47e7-888c-302e6bbd3233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>firstLevelMenu</value>
+      <webElementGuid>7e861737-dcf2-4161-b094-8507439c97bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='menu_leave_viewLeaveModule']</value>
+      <webElementGuid>c9cf025c-8e5c-4e54-9e57-fdc71e062d76</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

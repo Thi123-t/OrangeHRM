@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Qualifications</name>
+   <tag></tag>
+   <elementGuidId>8c29496a-71da-4ee7-b51c-b2f245b4222b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(contains(text(), 'Qualifications') or contains(., 'Qualifications'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee131d78-bb41-469c-b73c-0702cca3858a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Qualifications')]</value>
+      <webElementGuid>c9e91a27-8198-48c9-a8f1-986c77d6cf00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Qualifications</value>
+      <webElementGuid>8edbb5c4-638f-4f40-a04a-f913d54c29ad</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

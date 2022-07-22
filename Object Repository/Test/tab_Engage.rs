@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_Engage</name>
+   <tag></tag>
+   <elementGuidId>e18c3b16-ecc3-4adf-869d-35d817179242</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(contains(text(), 'Engage') or contains(., 'Engage')) and @class = 'q-tab__label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb82da8a-bea5-442c-8926-dd5ed3c95993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Engage</value>
+      <webElementGuid>eda0bcb4-2b1a-4c7f-8308-8565dffa8420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-tab__label</value>
+      <webElementGuid>d2c3cdf0-6a2a-4a0d-abe9-af041b0fb32a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

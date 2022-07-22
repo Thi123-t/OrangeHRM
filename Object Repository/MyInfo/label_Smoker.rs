@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Smoker</name>
+   <tag></tag>
+   <elementGuidId>77c753c7-40db-4a62-a638-c84dd4cdd8d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(contains(text(), 'Smoker') or contains(., 'Smoker'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>758860c6-00ef-4467-9c7a-dc9d7828190b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smoker</value>
+      <webElementGuid>7d573907-834c-4e0e-ae34-2665bf393fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[contains(text(),'Smoker')]</value>
+      <webElementGuid>6f9c4a39-6944-4bec-ba1c-fd09b70f3cc9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Subscribe</name>
+   <tag></tag>
+   <elementGuidId>c1f9783d-7393-498c-9fdd-68816479d28e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'Subscriber_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4bf9effb-1ca8-466d-92d4-fcdc41004788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Subscriber_link</value>
+      <webElementGuid>775d1df5-19f6-4e41-b5a9-ac41001c35b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button hover</value>
+      <webElementGuid>7b1d4ac9-b9db-40e2-89de-3ad1b6eba1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='Subscriber_link']</value>
+      <webElementGuid>e9dc9ddf-fef2-45a6-b5e4-6caf630c7367</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

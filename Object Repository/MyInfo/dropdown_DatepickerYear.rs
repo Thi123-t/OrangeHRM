@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_DatepickerYear</name>
+   <tag></tag>
+   <elementGuidId>523edee7-a0a4-4d39-bd6a-8975fa496fa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@class = 'ui-datepicker-year']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ae0900f5-5a2c-46e1-b278-29f9c13e7baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker-year</value>
+      <webElementGuid>41b193bb-5d58-4193-9ef8-42e11d6d95c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@class='ui-datepicker-year']</value>
+      <webElementGuid>02c0b1fe-484d-49f7-a3f8-44afc2a3e67a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

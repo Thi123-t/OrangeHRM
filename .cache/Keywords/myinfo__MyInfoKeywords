@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A18B6757E72F8AA5DD42037F9466EACE",
+  "keywordClasses": [
+    {
+      "name": "myinfo.MyInfoKeywords",
+      "keywordMethods": [
+        {
+          "name": "AddAttachment",
+          "parameters": [
+            {
+              "name": "file_name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

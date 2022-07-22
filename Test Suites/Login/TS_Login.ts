@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b9cc5625-4aa5-4622-8432-4424b336a167</testSuiteGuid>
+   <testCaseLink>
+      <guid>737b209d-2436-42e8-8f7e-829d4e84a94f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginPage/HR-21_VerifyItemsLoginPage</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e88330bb-b41b-4f0e-a877-4b0fcf46432c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginPage/HR-39_VerifyLinksLoginPage</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>be6eaf8e-f2c4-4068-ab17-415c8cfdc808</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>0c2025b1-2424-461b-809a-c636dbc7aeb6</id>
+         <masked>false</masked>
+         <name>TC</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/LoginPage/HR-27-37_VerifyInvalidLogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>364bc72e-4fc2-4014-8335-04d6113b880b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login/InvalidLogin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>364bc72e-4fc2-4014-8335-04d6113b880b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>91b9723c-2519-4189-81ad-fe542466e1be</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>364bc72e-4fc2-4014-8335-04d6113b880b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>210d4d38-7877-4cbf-a8e7-714982478e70</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>364bc72e-4fc2-4014-8335-04d6113b880b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>message</value>
+         <variableId>dad1eab3-9e58-4778-9629-8329ecedf41d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>364bc72e-4fc2-4014-8335-04d6113b880b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TC</value>
+         <variableId>0c2025b1-2424-461b-809a-c636dbc7aeb6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c44a1b8c-6a6e-4c47-abe4-eccb344e0608</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginPage/HR-22_VerifyValidLogin</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bb9b5445-9521-4d81-928d-394435712769</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6b5797d6-f4b5-4255-83ec-ed249c705455</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

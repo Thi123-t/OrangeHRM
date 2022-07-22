@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_UsernameHint</name>
+   <tag></tag>
+   <elementGuidId>e2dcc660-2b15-4b88-a656-b9285f70202e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'form-hint' and (contains(text(), 'Username') or contains(., 'Username'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80ce1527-793c-4b7c-a5de-6c1bc8909d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-hint</value>
+      <webElementGuid>3bd9cb0f-255c-4517-8ab3-ece8d540ebab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>f15cc389-0ab7-406f-bd5a-0792a1704897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class='form-hint'][contains(text(),'Username')]</value>
+      <webElementGuid>f20c8fd8-eb14-43e2-b0d6-13b838d3b9d3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

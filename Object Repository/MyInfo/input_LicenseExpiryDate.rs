@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_LicenseExpiryDate</name>
+   <tag></tag>
+   <elementGuidId>90ac8994-fe06-426b-ab63-e9a1d6d81d65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'personal_txtLicExpDate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9dc2514f-6a0f-482b-a875-614d9a39dd50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_txtLicExpDate</value>
+      <webElementGuid>066f26e0-1f4a-458c-9425-b74605904cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[txtLicExpDate]</value>
+      <webElementGuid>ffe60d36-8121-4900-9d3b-4441aeab798e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calendar editable calendar hasDatepicker</value>
+      <webElementGuid>1630139f-e9b2-4638-8dc3-95b542dbe8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='personal_txtLicExpDate']</value>
+      <webElementGuid>57e47ddd-e2cb-4dcf-b3be-d68b355bc693</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

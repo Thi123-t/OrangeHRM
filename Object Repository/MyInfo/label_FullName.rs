@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_FullName</name>
+   <tag></tag>
+   <elementGuidId>303f5550-e165-4e8d-a60e-cfb62767deb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@class = 'hasTopFieldHelp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ede6dc06-5737-4c45-a8ee-bc771a410ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hasTopFieldHelp</value>
+      <webElementGuid>1160066f-6c25-43b2-bbd7-3e945c37a2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@class='hasTopFieldHelp']</value>
+      <webElementGuid>082544a5-62c6-4f9d-9636-a6a179acb99b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

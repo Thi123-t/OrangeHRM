@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_PIM</name>
+   <tag></tag>
+   <elementGuidId>32f8a3f3-4b41-4c1d-a898-8d036736b909</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'menu_pim_viewPimModule']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29f4daef-d799-4a80-ae50-c14e07e232ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_pim_viewPimModule</value>
+      <webElementGuid>94b7b4eb-d5bc-4330-9b00-db6a0379cd34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>firstLevelMenu</value>
+      <webElementGuid>5eb2c623-25e3-42b9-8e3e-be65c1af9e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='menu_pim_viewPimModule']</value>
+      <webElementGuid>4e5f55c7-9f52-49a1-804b-14e74d890296</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ErrorMessageLicenseExpiryDate</name>
+   <tag></tag>
+   <elementGuidId>b080ee52-cc6c-48cf-8395-56444100546a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@for = 'personal_txtLicExpDate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7edc3dc3-611a-4c14-8c27-fb37bada38ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-error</value>
+      <webElementGuid>ceed8bbb-919a-488e-b2e4-b2daa2c5f329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>personal_txtLicExpDate</value>
+      <webElementGuid>46d6994e-4bb7-4caf-8b04-3a44316d5fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ol[2]//li[4]//span[1]</value>
+      <webElementGuid>681dc1e7-6f61-43ff-9ee4-eabc5c7437fb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

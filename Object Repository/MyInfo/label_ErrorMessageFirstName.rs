@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ErrorMessageFirstName</name>
+   <tag></tag>
+   <elementGuidId>41a11323-8da0-4283-8475-ad8567c21900</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@for = 'personal_txtEmpFirstName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cdb28074-9cf9-4a3e-8642-af0b0f0f7993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-error</value>
+      <webElementGuid>8c4cf274-8879-4a4c-b941-3b88b353bca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>personal_txtEmpFirstName</value>
+      <webElementGuid>b71a7185-ee60-4558-8979-e3992441b183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@class='line nameContainer']//li[1]//span[1]</value>
+      <webElementGuid>d09b2171-48b3-471a-ae6b-ac6a502c552e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

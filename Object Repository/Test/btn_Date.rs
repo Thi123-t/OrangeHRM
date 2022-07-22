@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Date</name>
+   <tag></tag>
+   <elementGuidId>442d3c75-ccc7-4394-a1fb-d6b972ba0415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'19')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'19')]</value>
+      <webElementGuid>3a29f715-a337-4a47-8c20-0d31bd7b1827</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

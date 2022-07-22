@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image_CalendarLicense</name>
+   <tag></tag>
+   <elementGuidId>1421c0db-c64f-457e-b519-049681a3d1f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ol[2]//li[4]//img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5696d3ad-071b-4dc3-b894-2b0e5b5f1485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker-trigger</value>
+      <webElementGuid>c9d43425-6cbc-4f40-8992-a152e5d69210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ol[2]//li[4]//img[1]</value>
+      <webElementGuid>3a02d0fb-d677-4f7f-b3bf-9ed2acce0ee1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

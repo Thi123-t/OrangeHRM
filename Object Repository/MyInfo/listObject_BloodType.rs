@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listObject_BloodType</name>
+   <tag></tag>
+   <elementGuidId>99175982-6d0c-46fc-be1f-682e7358093d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name='custom1']/option</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@name='custom1']/option</value>
+      <webElementGuid>09be8a78-1bfd-4f73-975b-2230c8a5f8f1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
