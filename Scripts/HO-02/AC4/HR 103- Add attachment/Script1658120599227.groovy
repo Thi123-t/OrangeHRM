@@ -26,12 +26,13 @@ CustomKeywords.'common.CommonKeyword.Login'('Thicao', '@Thicao123')
 
 WebUI.click(findTestObject('Page_OrangeHRM/link_My Info'))
 
-// upload file
+// upload file C2
 WebUI.uploadFile(findTestObject('Page_OrangeHRM/input_Select File_ufile'), RunConfiguration.getProjectDir() + '\\Upload Files\\Katalon.jpg')
 
 WebUI.click(findTestObject('Page_OrangeHRM/input_Attachments_btnAddAttachment'))
 
 WebUI.click(findTestObject('Page_OrangeHRM/input__btnSaveAttachment'))
+// verify message
 
 WebUI.verifyTextPresent('Successfully Saved', false)
 

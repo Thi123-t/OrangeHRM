@@ -30,6 +30,7 @@ WebUI.uploadFile(findTestObject('Page_OrangeHRM/input_Select File_ufile'), file)
 WebUI.click(findTestObject('Page_OrangeHRM/input_Attachments_btnAddAttachment'))
 
 WebUI.click(findTestObject('Page_OrangeHRM/input__btnSaveAttachment'))
+// Delete file
 
 WebUI.check(findTestObject('Page_OrangeHRM/button_Delete'))
 

@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://tmasolutions-osondemand.orangehrm.com/symfony/web/index.php/auth/login')
 
 CustomKeywords.'common.CommonKeyword.Login'('Thicao', '@Thicao123')
-
+// Upload file
 WebUI.click(findTestObject('Page_OrangeHRM/link_My Info'))
 
 WebUI.uploadFile(findTestObject('Page_OrangeHRM/input_Select File_ufile'), file)
@@ -30,6 +30,7 @@ WebUI.uploadFile(findTestObject('Page_OrangeHRM/input_Select File_ufile'), file)
 WebUI.click(findTestObject('Page_OrangeHRM/input_Attachments_btnAddAttachment'))
 
 WebUI.click(findTestObject('Page_OrangeHRM/input__btnSaveAttachment'))
+// Edit file
 
 WebUI.click(findTestObject('Page_OrangeHRM/a_Edit'))
 
