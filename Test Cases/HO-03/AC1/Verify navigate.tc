@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify navigate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebbdb853-b0af-4624-a8bf-b809e9d1f960</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>43502a85-b125-4f29-bf05-409c4ce7ebdb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43502a85-b125-4f29-bf05-409c4ce7ebdb</id>
+      <masked>false</masked>
+      <name>avt</name>
+   </variable>
+</TestCaseEntity>

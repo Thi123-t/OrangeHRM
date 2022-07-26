@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Accepts</name>
+   <tag></tag>
+   <elementGuidId>1cf193e7-c228-4c2a-9e59-1f739e3c7767</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.fieldHelpBottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmPhoto']/fieldset/ol/li/label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6ec35b44-b766-4934-a397-91aaab3849e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fieldHelpBottom</value>
+      <webElementGuid>9c10bd44-9c58-4b94-95c4-b4385040936d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepts jpg, .png, .gif up to 1MB.
+                            Recommended dimensions: 200px X 200px                            </value>
+      <webElementGuid>7ab2a347-b84f-4dbe-a53a-07b8b7dcdbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPhoto&quot;)/fieldset[1]/ol[1]/li[1]/label[@class=&quot;fieldHelpBottom&quot;]</value>
+      <webElementGuid>0a4572eb-4830-4091-9c25-ca09d671e013</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmPhoto']/fieldset/ol/li/label[2]</value>
+      <webElementGuid>ee3431ce-a2e8-4e09-b5e7-01edbd1fcb51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Photograph'])[1]/following::label[1]</value>
+      <webElementGuid>9743aa28-ab87-4d64-b732-a1f0dee83ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photograph'])[1]/following::label[2]</value>
+      <webElementGuid>bf63e98c-c1bc-4d37-b340-cefb9af80589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::label[1]</value>
+      <webElementGuid>035398b3-8324-43ee-a47d-8dad645d947b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM - Confirmation Required'])[1]/preceding::label[1]</value>
+      <webElementGuid>5c7cbc12-8f6b-40b3-961d-1996c5deaa0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>d37707a5-bab5-4071-b73b-d7f558bb7067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Accepts jpg, .png, .gif up to 1MB.
+                            Recommended dimensions: 200px X 200px                            ' or . = 'Accepts jpg, .png, .gif up to 1MB.
+                            Recommended dimensions: 200px X 200px                            ')]</value>
+      <webElementGuid>6156b27e-bfee-4790-94a1-15e26ab4ad00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
